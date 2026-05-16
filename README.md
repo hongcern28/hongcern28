@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Graduated from the Faculty of Electronics & Telecommunications, University of Science, VNU-HCM.
-- 💡 **Focus Areas:**FPGA Development, Hardware-Software Co-design, Digital IC Design.
+- 💡 **Focus Areas:** FPGA Development, Hardware-Software Co-design, Digital IC Design.
 - 🛠️ **Languages:** Verilog HDL,System Verilog, C/C++, Embedded C.
 - 🚀 **Currently looking for:** Opportunities in IC Design, Verification, and Embedded Hardware Engineering.
 
