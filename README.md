@@ -17,11 +17,25 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Graduated from the Faculty of Electronics & Telecommunications, University of Science, VNU-HCM.
-- 💡 **Focus Areas:** Digital IC Design, FPGA Development, Hardware-Software Co-design.
-- 🛠️ **Languages & Tools:** Verilog HDL, C/C++, Embedded C, Nios II, Intel Quartus, ModelSim.
+- 💡 **Focus Areas:**FPGA Development, Hardware-Software Co-design, Digital IC Design.
+- 🛠️ **Languages:** Verilog HDL,System Verilog, C/C++, Embedded C.
 - 🚀 **Currently looking for:** Opportunities in IC Design, Verification, and Embedded Hardware Engineering.
 
 ---
+### ⚙️ EDA Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cadence_Virtuoso-000000?style=for-the-badge&logo=microchip&logoColor=white" title="Cadence Virtuoso" />
+  
+  <img src="https://img.shields.io/badge/Intel_Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" title="Intel Quartus" />
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-ED1C24?style=for-the-badge&logo=amd&logoColor=white" title="Xilinx Vivado" />
+  
+  <img src="https://img.shields.io/badge/ModelSim-005288?style=for-the-badge&logo=siemens&logoColor=white" title="ModelSim" />
+  
+  <img src="https://img.shields.io/badge/MATLAB-F87620?style=for-the-badge&logo=mathworks&logoColor=white" title="MATLAB" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" title="Simulink" />
+</p>
+
 
 ### 🛠️ Tech Stack & Skills
 
@@ -30,7 +44,7 @@
   <img src="https://img.shields.io/badge/FPGA-005192?style=for-the-badge&logo=alstom&logoColor=white" title="FPGA" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" />
   <img src="https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" title="Embedded C" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" title="JavaScript" />
+ <img src="https://img.shields.io/badge/Tcl%20Scripting-4B6EAF?style=for-the-badge&logo=gnubash&logoColor=white" title="TCL Scripting" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" title="Raspberry Pi" />
 </p>
 
