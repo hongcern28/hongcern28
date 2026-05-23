@@ -17,12 +17,12 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Graduated from the Faculty of Electronics & Telecommunications, University of Science, VNU-HCM.
-- 💡 **Focus Areas:** FPGA Development, Hardware-Software Co-design, Digital IC Design.
+- 💡 **Focus Areas:** FPGA Development, Hardware-Software Co-design, Digital IC Design, Embedded Systems.
 - 🛠️ **Languages:** Verilog HDL,System Verilog, C/C++, Embedded C.
-- 🚀 **Currently looking for:** Opportunities in IC Design, Verification, and Embedded Hardware Engineering.
+- 🚀 **Currently looking for:** Opportunities in FPGA development, Embedded Hardware Engineering, IC Design, Verification.
 
 ---
-### ⚙️ EDA Tools
+### ⚙️ EDA & IDE Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cadence_Virtuoso-000000?style=for-the-badge&logo=microchip&logoColor=white" title="Cadence Virtuoso" />
@@ -57,15 +57,6 @@
 | 🧮 [**DA-FIR**](https://github.com/hongcern28/DA-FIR) | Implementation of Distributed Arithmetic FIR Filter on FPGA. | Verilog |
 | 📟 [**Morse-en-decoder-IP-with-Nios-II-system**](https://github.com/hongcern28/Morse-en-decoder-IP-with-Nios-II-system) | A custom Morse Encoder/Decoder Hardware IP integrated with Nios II soft-core processor. | Verilog / Nios II |
 | 🌌 [**Allsky**](https://github.com/AllskyTeam/allsky) *(Contributor/Fork)* | A Raspberry Pi operated allsky camera system for astronomy/meteor tracking. | JavaScript / RPi |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hongcern28&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongcern28&layout=compact&theme=radium&hide_border=true" />
-</div>
 
 ---
 
